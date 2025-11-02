@@ -1,0 +1,9 @@
+[package]
+name = "rouge_l_rust"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "rouge_l_rust"
+path = "src/main.rs"
+
